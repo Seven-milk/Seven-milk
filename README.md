@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Seven-milk</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://64.media.tumblr.com/010230ad04a57c58cf7b7068d06d3a4c/tumblr_ntubpk7JOz1udmq6uo4_500.gifv" width="300">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -42,10 +42,9 @@
 <hr>
 
 
-
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seven-milk&show_icons=true)](https://github.com/Seven-milk)
+[![Seven-milk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seven-milk&show_icons=true)](https://github.com/Seven-milk)
 
 <br/>
 
